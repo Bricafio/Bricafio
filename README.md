@@ -7,8 +7,11 @@ Soy estudiante de Ciencias de la Computación con pasión por el desarrollo fron
 🎯 Actualmente, trabajo en mejorar mis habilidades con React y UX/UI.  
 
 ## 🛠️ Tecnologías y Herramientas  
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,react" />
+  </a>
+</p>
 
 ## 💡 Proyectos Destacados 
 
