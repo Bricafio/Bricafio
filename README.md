@@ -3,8 +3,8 @@
 
 ## 🚀 Sobre mí  
 Me apasiona el desarrollo frontend y la creación de interfaces web intuitivas. 
-📌 Trabajo con HTML, CSS y JavaScript, explorando frameworks modernos como React. 
-🎯 Actualmente, estoy mejorando mis habilidades en UX/UI para construir experiencias más atractivas y accesibles.  
+-📌 Trabajo con HTML, CSS y JavaScript, explorando frameworks modernos como React. 
+-🎯 Actualmente, estoy mejorando mis habilidades en UX/UI para construir experiencias más atractivas y accesibles.  
 
 ## 🛠️ Tecnologías y Herramientas  
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,tailwind,js,react)](https://skillicons.dev)
