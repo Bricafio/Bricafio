@@ -13,8 +13,8 @@ Me apasiona el desarrollo frontend y la creación de interfaces web intuitivas.
 ## 💡 Proyectos Destacados 
 
 ## 📊 Estadísticas  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical) 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Bricafio&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Bricafio&layout=compact&theme=radical) 
 
 ## 📬 Contáctame  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabricio-alonso-lanche-pacsi-16a5472ba)  
